@@ -24,9 +24,9 @@ used by the previous work: [CMVC](https://dl.acm.org/doi/abs/10.1145/3534678.353
 
 ## Reproduce
 ### Run CLUE+ on the ReVerb45K data set:
-    python CLUE_main_reverb.py
+    python CLUE+_main_reverb.py
 ### Run CLUE+ on the OPIEC59K data set:
-    python CLUE_main_opiec.py
+    python CLUE+_main_opiec.py
 
 
 [1] Vashishth S, Jain P, Talukdar P. Cesi: Canonicalizing open knowledge bases using embeddings and side information. WWW'2018, 1317-1327.   
